@@ -21,4 +21,11 @@ git add lsgit.sh
 - les fichiers sont maintenant suivis
 - nous faisons notre premier commit : git commit -m "Version initiale avec les 3 fichiers README.txt, test01.txt, lsgit.sh"
 
+###### Création d'un repo sur github
+- création d'un repo sur github : jcbGit
+git remote add origin https://github.com/jcbrun/jcbGit.git
+- push de la version innitiale
+git push -u origin master
+
+
 

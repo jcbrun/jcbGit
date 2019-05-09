@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------
+/Users/BRUNJ/jcbrun/Dev/git/jcbGit
+---------------------------------------------
+les fichiers du répertoire
+---------------------------------------------
+total 24
+drwxr-xr-x   7 BRUNJ  staff   224 May  9 17:49 .
+drwxr-xr-x   6 BRUNJ  staff   192 May  9 08:26 ..
+drwxr-xr-x  12 BRUNJ  staff   384 May  9 17:48 .git
+-rw-r--r--   1 BRUNJ  staff  1148 May  9 15:47 README.txt
+-rwxr--r--   1 BRUNJ  staff   439 May  9 09:27 lsgit.sh
+-rw-r--r--   1 BRUNJ  staff   230 May  9 17:49 modif_entre_init_v1.txt
+-rw-r--r--   1 BRUNJ  staff     0 May  9 09:23 test01.txt
+---------------------------------------------
+status git de ces fichiers
+---------------------------------------------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   README.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	modif_entre_init_v1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+---------------------------------------------
