@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------
+/Users/BRUNJ/jcbrun/Dev/git/jcbGit
+---------------------------------------------
+les fichiers du répertoire
+---------------------------------------------
+total 40
+drwxr-xr-x   9 BRUNJ  staff   288 May  9 18:06 .
+drwxr-xr-x   6 BRUNJ  staff   192 May  9 08:26 ..
+drwxr-xr-x  12 BRUNJ  staff   384 May  9 18:04 .git
+-rw-r--r--   1 BRUNJ  staff  1825 May  9 18:01 README.txt
+-rwxr--r--   1 BRUNJ  staff   439 May  9 09:27 lsgit.sh
+-rw-r--r--   1 BRUNJ  staff  1233 May  9 17:49 modif_entre_init_v1.txt
+-rw-r--r--   1 BRUNJ  staff  1300 May  9 18:02 modif_entre_v1_v2.txt
+-rw-r--r--   1 BRUNJ  staff   230 May  9 18:06 modif_entre_v2_v3.txt
+-rw-r--r--   1 BRUNJ  staff     0 May  9 09:23 test01.txt
+---------------------------------------------
+status git de ces fichiers
+---------------------------------------------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	modif_entre_v2_v3.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+---------------------------------------------
