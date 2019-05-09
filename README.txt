@@ -27,5 +27,24 @@ git remote add origin https://github.com/jcbrun/jcbGit.git
 - push de la version innitiale
 git push -u origin master
 
+###### version 1 : mise à jour et création de nouveau fichier
+- modif README.txt
+- création modif_entre_init_v1.txt
+- integration des données dans la version
+git add modif_entre_init_v1.txt
+git add README.txt
+- commit des modifs
+git commit -m "Version 1 : modif README.txt et création modif_entre_init_v1.txt"
+git push -u origin master
+
+###### version 2 : mise à jour et création de nouveau fichier
+- modif README.txt
+- création modif_entre_v1_v2.txt
+- integration des données dans la version
+git add modif_entre_v1_v2.txt
+git add README.txt
+- commit des modifs
+git commit -m "Version 1 : modif README.txt et création modif_entre_v1_v2.txt"
+git push -u origin master
 
 
